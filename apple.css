@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.navbar{
+    background-color: rgb(24, 24, 24);
+    list-style-type: none;
+    display: flex;
+    padding: 15px;
+    gap: 25px;
+}
+
+.navbar a{
+    margin-left: 50px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-family: sans-serif;
+}
+
+.navbar a:hover{
+    color: rgb(128, 8, 4);
+}
+
+#hero{
+background-color: black;
+height: 750px;
+}
