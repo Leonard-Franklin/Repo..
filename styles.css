@@ -16,6 +16,8 @@ header {
 .nav-header {
     list-style-type: none;
     display: flex;
+    position: relative;
+    float: left;
     gap: 14px;
 }
 
