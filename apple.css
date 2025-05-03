@@ -23,22 +23,5 @@
     color: rgb(128, 8, 4);
 }
 
-#hero{
-background-color: rgb(133, 120, 120);
-width: 100%;
-height: 900px;
-}
-
-#art.left{
-    background-color: orange;
-    width: 50%;
-    height: 900px;
-}
-
-#art.right{
-    background-color: aqua;
-    width: 50%;
-    height: 900px;
 
 
-}
